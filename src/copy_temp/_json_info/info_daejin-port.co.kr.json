@@ -1,0 +1,38 @@
+[{
+    "siteName":"대진항",
+    "siteNameEN": "DAEJIN PORT",
+    "domain": "daejin-port.co.kr",
+    "localName": "고성",
+    "baseCssPath": "http://static.sampobeach.co.kr/css/daejin-port",
+    "imgPath":"http://design.ebiznetworks.co.kr/lhc/tourist-gangwon/img/daejin-port.co.kr",
+    "subMent01":"열려있는 동해풍경과 향긋한 바다향기",
+    "mainMent01":"동해안에서 만나는 최고의 풍경<br>푸른바다의 다양하고 아름다운 모습에 감탄이 절로 나옵니다.",
+    "subMent02":"동해에서 만나는 최고의 항구",
+    "mainMent02":"해지는 서해바다의 수평선<br>사계절, 바다내음이 가득 물든 풍광들이 넘쳐납니다.",
+    "josaRo":"으로",
+    "josaLeul":"을",
+    "aboutMent":"동해가 품은 아름다운 항구 !",
+    "aboutTextArr":[ 
+        "대진항은 강원도 고성군 현내면 대진리에 있는 어항입니다. 1971년 12월 21일 국가어항으로 지정되었다. 동해안 최북단에 위치하고 있는 항구입니다. 대진항은 동해안에 위치한 어항 중에서는 규모가 약간 큰 편에 속하는 항구이며 해안에는 어부들이 잡은 고기들을 판매하는 공판장이 자리 잡고 있습니다",
+    
+        "동해안 휴전선 남쪽 최북단에 위치하고 있는 어항으로 동해안 항구 중에는 큰 편에 속하는 항구이다. 이 항구는 1920년 어항으로 축조되었다고 하며 동해안에서 많이 잡혔던 명태 등을 잡는 항구로 일제강점기에는 부설되었던 철도와 함께 어항으로서 크게 번성했었고 대진항은 명태가 잡히는 어항으로 유합니다.<br>주요 어종은 가자미, 문어 등이며, 가리비, 성게 등을 양식 합니다.",
+    
+        "화진포해변에서 초도항과 초도해수욕장을 지나 북쪽으로 2km 정도 가면 우리나라에서 가장 북쪽에 있는 대진항을 만난다. 대진항은 북 위 38°30′. 그러니까 삼팔선이라 부르는 휴전선이 곧게 그어졌다면 북한 땅이 되었을 곳이다. 우리나라 지도를 세로로 접으면 서해 최북 단 섬인 백령도에서 북쪽으로 50km나 떨어진 황해남도 과일군이 대진항의 대칭점이 됩니다."
+    ],
+    "wayCome":{
+        "ment":"해질녘 포구의 아름다운 전망, 대진항 위치안내",
+        "address":"강원 고성군 현내면 대진리 130-5",
+        "naverMap":"http://naver.me/5vBGyzgB",
+        "kakaoMap":"http://kko.to/HFODCMDYB",
+        "transport":[
+            {
+                "title":"대진시외버스종합터미널",
+                "step":
+                "터미널에서 현내면사무소앞 정류장까지 도보이동<br> 현내면사무소앞 정류장 1번, 1-1번, 1-2번 버스 승차<br>대진토등학교 정류장 하차<br>대진항까지 도보이동 150m"
+            }
+        ]
+    },
+    "mapBasePath":"../copy_temp/daejin-port.co.kr/views/",
+    "mapBasePathM":"../copy_temp/daejin-port.co.kr/views_m/",
+    "jsonInfoPath":"../_json_info/"
+}]

@@ -1,0 +1,43 @@
+[{
+    "siteName":"외옹치항",
+    "siteNameEN": "OEONGCHI",
+    "domain": "oeongchi.co.kr",
+    "localName": "속초",
+    "baseCssPath": "http://static.sampobeach.co.kr/css/oeongchi",
+    "imgPath":"http://design.ebiznetworks.co.kr/lhc/tourist-gangwon/img/oeongchi.co.kr",
+    "subMent01":"열려있는 동해풍경과 향긋한 바다향기",
+    "mainMent01":"동해안에서 만나는 최고의 풍경<br>푸른바다의 다양하고 아름다운 모습에 감탄이 절로 나옵니다.",
+    "subMent02":"동해에서 만나는 최고의 항구",
+    "mainMent02":"해지는 서해바다의 수평선<br>사계절, 바다내음이 가득 물든 풍광들이 넘쳐납니다.",
+    "josaRo":"로",
+    "josaLeul":"를",
+    "aboutMent":"동해가 품은 아름다운 항구 !",
+    "aboutTextArr":[ 
+        "강원도 속초해수욕장 주변, 대포항에서 그리 멀지 않은 곳에 작고 아담한 규모의 항구인 외옹치항이 있습니다.<br>규모가 작고 잘 알려지지 않고, 바로 옆에 위치한 대포항이 워낙 유명한 탓에 상대적으로 외옹치항은 비교적 한산하고 조용합니다.<br>외옹치 주민들의 대부분이 어업을 생업으로 하고 있기 때문에 마을과 포구의 분위기가 향토적이고 어촌의 정취가 물씬 풍기고 또 고기잡이 배가 매일 드나들기 때문에 활어난전에서 싱싱한 횟감을 쉽게 구할 수 있습니다.",
+    
+        "대포항보다는 규모도 작고 어종도 적지만 북적거리는 인파에 치이지 않고 편안하고 조용하게 횟감을 고를 수 있어 좋고 외지인 보다는 현지인이 더 많이 찾는 곳이며, 한번 와 본 사람이면 다시 오고싶어질 만큼 싱싱한 횟감과 조용한 분위기가 장점입니다.",
+    
+        "해돋이를 감상하기 위하여 이곳을 찾아오는 관광객이 많고 해질녘 외옹치 포구의 전망대에서 바라보는 바다 풍경이 아름다우며, 어두운 밤바다 위에 떠 있는 집어등의 불빛이 정겹고 낭만적입니다."
+    ],
+    "wayCome":{
+        "ment":"해질녘 포구의 아름다운 전망, 외옹치항 위치안내",
+        "address":"강원도 속초시 대포항길 외옹치항",
+        "naverMap":"http://naver.me/5h74YsnN",
+        "kakaoMap":"http://kko.to/kbpzNujY0",
+        "transport":[
+            {
+                "title":"속초고속버스터미널 하차시",
+                "step":
+                "터미널 정류장에서 9-1번, 1번 버스 승차<br>대포농공단지정류장에서 하차"
+            },
+            {
+                "title":"속초고속버스터미널 하차 후 힐링 도보이동",
+                "step":
+                "속초해수욕장으로 300m 도보이동 후<br>남쪽 해변길로 1.3km 도보이동 (총 1.6km 거리)"
+            }
+        ]
+    },
+    "mapBasePath":"../copy_temp/oeongchi.co.kr/views/",
+    "mapBasePathM":"../copy_temp/oeongchi.co.kr/views_m/",
+    "jsonInfoPath":"../_json_info/"
+}]

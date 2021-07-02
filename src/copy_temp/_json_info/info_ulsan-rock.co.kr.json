@@ -1,0 +1,40 @@
+[
+    {
+        "siteName": "울산바위",
+        "siteNameEN": "ULSAN-ROCK",
+        "localName": "속초",
+        "domain": "ulsan-rock.co.kr",
+        "baseCssPath": "http://design.ebiznetworks.co.kr/sun/tourist/static",
+        "imgPath": "http://design.ebiznetworks.co.kr/sun/tourist/img/ulsan-rock.co.kr",
+        "subMent01": "설악산이 품은 가장 아름다운 곳",
+        "mainMent01": "태백산맥에서 만나는 가장 아름다운 산<br>설악산의 절경은 감탄사 자체입니다.",
+        "subMent02": "열려있는 하늘, 태백산맥의 정기",
+        "mainMent02": "사계절 모든 이의 마음을 설레게 하는<br> 설악의 초록과 단풍이 넘처납니다.",
+        "josaRo": "로",
+        "josaLeul": "를",
+        "aboutMent": "설악이 만든 아름다운 곳 !",
+        "aboutTextArr": [
+            "남한에서 가장 멋진 암괴가 설악산 울산바위입니다. <br>울산바위로 오르는 길은 설악동 소공원의 신흥사 옆으로 나있고 중간에 흔들바위가 있습니다.",
+
+            "정상까지 오를 수 있는 계단이 만들어져 있고 정상에 오르면 대청봉도 보이고 외설악 전경도 눈에 들어옵니다.<br> 소공원에서 울산바위 정상까지 왕복하는데 서너 시간이 소요됩니다.",
+
+            "해발 873m의 울산바위는 사방이 절벽으로 이루어져 있으며 둘레가 4km이며 6개의 봉우리로 이루어져 있어 그 경관은 이루 말할 수 없습니다.<br> 울산바위의 명칭은 3가지 설이 있는데 하나는 울타리 같이 생겼다 하여 붙여진 이름과 경남 울산의 지명을 딴 전설적인 이름, 또 하나는 우는 산이라는 뜻에서 붙여진 이름 등이 있다. 울산바위 허리에 구름이 휘감기면 흡사 구름 꽃송이가 피는 것 같은 모습을 만날 수 있습니다."
+        ],
+        "wayCome": {
+            "ment": "설악이 품은 가장 아름다운 곳, 울산바위 위치안내",
+            "address": "강원도 속초시 설악산로 1091",
+            "naverMap": "http://naver.me/FlJ3WVGG",
+            "kakaoMap": "http://kko.to/FRS7jvKYj",
+            "transport": [
+                {
+                    "title": "속초고속버스터미널 하차시",
+                    "step": "건너편 7-1 버스 탑승후 설악산 소공원 하차 후<br> 도보 180미터 입구도착 (22정거장)",
+                    "step2": "설악산 소공원 입구에서 도보 2시간"
+                }
+            ]
+        },
+        "mapBasePath": "../copy_temp/ulsan-rock.co.kr/views/",
+        "mapBasePathM": "../copy_temp/ulsan-rock.co.kr/views_m/",
+        "jsonInfoPath": "../_json_info/"
+    }
+]
