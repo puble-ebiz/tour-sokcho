@@ -1,6 +1,22 @@
 .contents .main .slide-1:before {
-    background: #eee url(http://design.ebiznetworks.co.kr/sun/tourist/img/ulsan-rock.co.kr/intro/mv_1.jpg) no-repeat center;
+  background: #000
+    url(http://sunnyking77.ebiz.test/img/tourist/sokcho/dongmyeong-port.co.kr/intro/mv_1.jpg)
+    no-repeat center;
 }
 .contents .main .slide-2:before {
-    background: #eee url(http://design.ebiznetworks.co.kr/sun/tourist/img/ulsan-rock.co.kr/intro/mv_2.jpg) no-repeat center;
+  background: #eee
+    url(http://sunnyking77.ebiz.test/img/tourist/sokcho/dongmyeong-port.co.kr/intro/mv_2.jpg)
+    no-repeat center;
+}
+.contents .main .slide-1:after,
+.contents .main .slide-2:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.15);
+  z-index: 400;
 }
