@@ -1,0 +1,7 @@
+.contents .main .slide-1:before {
+  background: #eee url(http://img.ulsan-rock.co.kr/intro/mv_1.jpg) no-repeat center;
+}
+
+.contents .main .slide-2:before {
+  background: #eee url(http://img.ulsan-rock.co.kr/intro/mv_2.jpg) no-repeat center;
+}

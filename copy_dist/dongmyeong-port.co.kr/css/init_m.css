@@ -2,13 +2,7 @@
   background: #eee url(http://img.dongmyeong-port.co.kr/intro/m/mv_1.jpg)
     no-repeat center 80% / cover;
 }
-.contents .main .slide-1:after {
-  background: rgba(0, 0, 0, 0.5);
-}
 .contents .main .slide-2:before {
   background: #eee url(http://img.dongmyeong-port.co.kr/intro/m/mv_2.jpg)
     no-repeat center 100% / cover;
-}
-.contents .main .slide-2:after {
-  background: rgba(0, 0, 0, 0.5);
 }
