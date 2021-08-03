@@ -37,7 +37,7 @@
     <section class="wrap cmStyle tourist tour-2">
         <div class="container">
             <div class="area cf">
-                <h3 class="h3-tit"><span class="f-bd">놀거리</span> 관광지 <span class="sampo"><span
+                <h3 class="h3-tit"><span class="f-bd">액티비티</span> 관광지 <span class="sampo"><span
                             class="f-bd">@@siteNameEN</span> </span></h3>
                 <ol class="list cf ol-play">
                     @@loop('./_list/_list_temp.html',"../_json_info/_list_tourist/list_play.json")
@@ -57,6 +57,18 @@
             </div>
         </div>
     </section>
+    <!-- 항구/항만 관광지 -->
+    <section class="wrap cmStyle tourist tour-4">
+        <div class="container">
+            <div class="area cf">
+                <h3 class="h3-tit"><span class="f-bd">항구/항만</span> 관광지 <span class="sampo"><span
+                            class="f-bd">@@siteNameEN</span></span></h3>
+                <ol class="list cf ol-harbor">
+                    @@loop('./_list/_list_temp.html',"../_json_info/_list_tourist/list_harbor.json")
+                </ol>
+            </div>
+        </div>
+    </section>
     <!-- 자연 관광지 -->
     <section class="wrap cmStyle tourist tour-5">
         <div class="container">
@@ -65,6 +77,18 @@
                             class="f-bd">@@siteNameEN</span> </span></h3>
                 <ol class="list cf ol-nature">
                     @@loop('./_list/_list_temp.html',"../_json_info/_list_tourist/list_nature.json")
+                </ol>
+            </div>
+        </div>
+    </section>
+    <!-- 조형물 관광지 -->
+    <section class="wrap cmStyle tourist tour-4">
+        <div class="container">
+            <div class="area cf">
+                <h3 class="h3-tit"><span class="f-bd">조형물</span> 관광지 <span class="sampo"><span
+                            class="f-bd">@@siteNameEN</span></span></h3>
+                <ol class="list cf ol-sculp">
+                    @@loop('./_list/_list_temp.html',"../_json_info/_list_tourist/list_sculp.json")
                 </ol>
             </div>
         </div>
